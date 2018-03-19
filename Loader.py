@@ -94,3 +94,6 @@ print("Сколько у курицы крыльев?", chiken1.wings)
 
 pig2 = Pigs('pig2', 120)
 print('Имя свиньи', pig2.name, 'и ее вес', pig2.weight)
+
+pig3 = Pigs('pig3', 120)
+print('Имя свиньи', pig3.name, 'и ее вес', pig3.weight)
